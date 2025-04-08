@@ -13,7 +13,6 @@ Check out Reflex Rush in action!
 
 👉 Watch the Demo on YouTube: https://youtu.be/GDtdjqJJJQY
 
---
 
 ## 🎮 Game Modes
 

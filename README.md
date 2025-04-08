@@ -1,6 +1,8 @@
 # ReflexRush 🕹️
 Reaction Time Testing Game on FPGA Board - Programmed in Verilog on Quartus Prime
 
+## 🎯 Overview
+
 **Reflex Rush** is a fast-paced reaction game developed for the **DE10-Lite FPGA**. Designed using Verilog HDL, the game challenges one or two players to react to signals as quickly and accurately as possible. It combines real-time inputs, LED/Switch logic, 7-segment displays, VGA output, and FSM-based control to deliver a full hardware-based experience.
 
 ---

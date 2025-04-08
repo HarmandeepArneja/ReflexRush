@@ -7,6 +7,14 @@ Reaction Time Testing Game on FPGA Board - Programmed in Verilog on Quartus Prim
 
 ---
 
+## 🎥 Demo Video
+
+Check out Reflex Rush in action!
+
+👉 Watch the Demo on YouTube: https://youtu.be/GDtdjqJJJQY
+
+--
+
 ## 🎮 Game Modes
 
 ### 🧍 Single Player (SP)

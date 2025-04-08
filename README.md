@@ -79,7 +79,8 @@ This project demonstrates practical applications of digital logic design, FSMs, 
 | `counter_mod.v`    | Modular counters for timing          |
 | `fsm_z_control.v`  | FSM control unit                     |
 
-| Individual File   | Description                          |
+| Individual File    | Description                          |
+|--------------------|--------------------------------------|
 | `png_to_mem.py`    | Image converter for ROM visuals      |
 
 ---

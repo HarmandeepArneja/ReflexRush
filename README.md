@@ -13,9 +13,9 @@ Reaction Time Testing Game on FPGA Board - Programmed in Verilog on Quartus Prim
 - Best reaction time is tracked across all trials.
 
 ### 👥 Multiplayer (MP)
-- Players take turns matching switches to lit LEDs as fast and accurately as they can.
+- Players take turns matching switches to lit LEDs as fast and accurately as they can, and have to flick up the corresponding switch.
 - Scoring is based on who reacts faster and correctly.
-- Best time and corresponding player ID are tracked.
+- Best time and corresponding player number (i.e. either P1 or P2 is displayed on the 7-segment display) are tracked across all trials.
 
 ---
 
